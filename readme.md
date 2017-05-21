@@ -1,4 +1,4 @@
-Instructions
+#Instructions
 
 1. Download the github link.
 2. Install Node on your local machine, if not available.
@@ -8,6 +8,6 @@ Instructions
 
 ```mocha ./test/tennis-specs.js```
 
-Testing tools and Language used.
+##Testing tools and Language used.
 1. Mocha, Chai
 2. Javascript (ES5)
